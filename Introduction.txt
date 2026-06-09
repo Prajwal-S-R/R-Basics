@@ -1,0 +1,3 @@
+R is a programming language mainly used for Data Analysis. By using various R packages, we can run bulk datasets. 
+
+R is used by Statisticians, Data Manipulation agents.
