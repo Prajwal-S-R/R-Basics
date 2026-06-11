@@ -6,3 +6,6 @@ R has become an essential tool in biology, largely because of its powerful, doma
 ## Bioconductor 
 1. Biostrings - It is useful for those working in DNA, RNA and protein sequences.
 2. ShortRead - useful to read high throughput sequences
+3. Rsamtools - It is basically samtools which are used to read and write BAM files.
+4. biomaRt - Connecting to online BioMart databases (e.g., Ensembl) and aids in seamless retrieval of gene annotations and IDs.
+5. 
