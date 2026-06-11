@@ -8,4 +8,5 @@ R has become an essential tool in biology, largely because of its powerful, doma
 2. ShortRead - useful to read high throughput sequences
 3. Rsamtools - It is basically samtools which are used to read and write BAM files.
 4. biomaRt - Connecting to online BioMart databases (e.g., Ensembl) and aids in seamless retrieval of gene annotations and IDs.
-5. 
+5. DECIPHER - Curating, analyzing, and manipulating sequences which are applicable for Sequence alignment, chimera detection, primer design.
+6. BSgenome -	Retrieving full genome sequences for model organisms. The getSeq() function is a most useful in genomics.
