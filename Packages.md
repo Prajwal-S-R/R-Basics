@@ -11,3 +11,5 @@ R has become an essential tool in biology, largely because of its powerful, doma
 5. **DECIPHER** - Curating, analyzing, and manipulating sequences which are applicable for Sequence alignment, chimera detection, primer design.
 6. **BSgenome** -	Retrieving full genome sequences for model organisms. The getSeq() function is a most useful in genomics.
 7. GenomicRanges -	Representing and manipulating genomic intervals (e.g., gene locations). This is the foundation for most other genomic tools.
+
+All these packages help for biologist who can run code to integrate multiple workflows in his project.
