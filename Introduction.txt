@@ -5,3 +5,5 @@ R is used by Statisticians, Data Manipulation agents.
 Seurat is for Bioinformatics workflow.
 
 seurat objects -- version
+
+Download the packages 
