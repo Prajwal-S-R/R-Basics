@@ -14,6 +14,6 @@ R has become an essential tool in biology, largely because of its powerful, doma
 
 All these packages help for biologist who can run code to integrate multiple workflows in his project.
 
-Apart from these many tools can be 
+Apart from these many tools can be correlated using python too.
 
 
