@@ -15,6 +15,5 @@ R has become an essential tool in biology, largely because of its powerful, doma
 All these packages help for biologist who can run code to integrate multiple workflows in his project.
 
 ## For Data Visualization
-1. 
-
+1. **dyplr** - used for data manipulation. Intuitive grammar (filter(), mutate(), summarise(), group_by())
 
