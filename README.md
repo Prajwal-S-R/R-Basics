@@ -5,4 +5,4 @@ Its all for Statistical analysis. How R integrates your workflow to current rese
 # Libraries
 Packages within R are good for data analysis 
 
-Basically 
+Basically R gives 
