@@ -6,4 +6,4 @@ Seurat is for Bioinformatics workflow.
 
 seurat objects -- version
 
-Download the packages 
+Download the packages
