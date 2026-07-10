@@ -13,7 +13,7 @@ R has become an essential tool in biology, largely because of its powerful, doma
 7. **GenomicRanges** -	Representing and manipulating genomic intervals (e.g., gene locations). This is the foundation for most other genomic tools.
 
 All these packages help for biologist who can run code to integrate multiple workflows in his project.
-by
+by the 
 
 ## For Data Visualization
 1. **dyplr** - used for data manipulation. Intuitive grammar (filter(), mutate(), summarise(), group_by())
