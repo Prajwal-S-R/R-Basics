@@ -20,4 +20,4 @@ by the
 2. **ggplot2** - used for	data visualization and is a	powerful and flexible layered grammar of graphics.
 3. **tidyverse** -	Metapackage	which loads dplyr, ggplot2, tidyr, and others together.
 4. **tidyr** -	Data tidying. Common functions include pivot_longer(), pivot_wider(), separate()
-5. 
+5. ** 
