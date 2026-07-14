@@ -3,7 +3,7 @@
 # version control
 h <- --version
 
-# Variables are assigned using
+# Variable are assigned using
   ' <- ' this symbol
 
 # You can print by just entering the name of variable.
