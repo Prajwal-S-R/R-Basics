@@ -6,3 +6,4 @@ Its all for Statistical analysis. How R integrates your workflow to current rese
 Packages within R are good for data analysis 
 
 Basically R gives statistical exploration of data
+
